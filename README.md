@@ -32,15 +32,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+https://github.com/LDROSSIII/InstagramClone2.0/blob/master/Walkthrough6.gif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I needed to work on another device again, but that is all!
 
 ## Open-source libraries used
 
